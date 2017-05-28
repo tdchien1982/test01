@@ -5,9 +5,11 @@ import lombok.NoArgsConstructor;
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
 
-@NoArgsConstructor
+@NoArgsConstructor dsdsee GRERfdfhf
 @RequiredArgsConstructor(staticName = "of")
 @AllArgsConstructor
+
+
 public class ConstructorExample<T> {
 	private int x, y;
 	
