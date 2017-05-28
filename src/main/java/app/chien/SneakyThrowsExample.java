@@ -15,6 +15,6 @@ public class SneakyThrowsExample {
 	public void run() {
 		int x = 0;
 		int y = 1;
-		throw new Throwable();
+		throw new Throwable(); REWE
 	}
 }
